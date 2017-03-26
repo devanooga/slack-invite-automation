@@ -1,7 +1,7 @@
 Slack Invite Automation
 ------------
 
-A tiny web application to invite a user into your Slack team.
+A tiny web application to invite a user into the [Devanooga](https://www.devanooga.com/) slack team.
 
 Inspired by
 [How I hacked Slack into a community platform with Typeform](https://levels.io/slack-typeform-auto-invite-sign-ups/)
