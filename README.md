@@ -78,7 +78,7 @@ $ npm start
 
 You can access <http://localhost:3000> on your web browser.
 
-![](https://raw.github.com/outsideris/slack-invite-automation/master/screenshots/join-page.jpg)
+![](https://raw.github.com/7279616e/slack-invite-automation/master/screenshots/join-page.png)
 
 ## Run with Docker
 
